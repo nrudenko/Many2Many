@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/lib/LikeOrm/LikeOrm.iml" filepath="$PROJECT_DIR$/app/lib/LikeOrm/LikeOrm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/lib/LikeOrm/LikeOrmLib/LikeOrmLib.iml" filepath="$PROJECT_DIR$/app/lib/LikeOrm/LikeOrmLib/LikeOrmLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManyToMany.iml" filepath="$PROJECT_DIR$/ManyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/lib/lib.iml" filepath="$PROJECT_DIR$/app/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
+
