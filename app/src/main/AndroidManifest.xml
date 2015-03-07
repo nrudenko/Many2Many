@@ -16,9 +16,16 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity
+            android:name=".CompanyActivity"
+            android:label="@string/title_activity_company">
+        </activity>
+
         <provider
-            android:authorities="com.github.nridenko.likeorm.sample.manytomany"
-            android:name=".db.M2MContentProvider"/>
+            android:name=".db.M2MContentProvider"
+            android:authorities="com.github.nridenko.likeorm.sample.manytomany"/>
+
+
     </application>
 
 </manifest>

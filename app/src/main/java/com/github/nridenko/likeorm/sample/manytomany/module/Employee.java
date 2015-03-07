@@ -4,8 +4,11 @@ import com.github.nrudenko.orm.annotation.Table;
 
 @Table
 public class Employee {
-    public final int id;
-    public final String name;
+    public int id;
+    public String name;
+
+    public Employee() {
+    }
 
     public Employee(int id, String name) {
         this.id = id;
